@@ -1,5 +1,9 @@
 package GitdDemoTest;
 
+/*   Git hub repo details
+url  https://github.com/Raghuapi/GitDemoProjectV2.git
+pass : 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 */
+
 public class GitTest1 {
 
 	public static void main(String[] args) {
